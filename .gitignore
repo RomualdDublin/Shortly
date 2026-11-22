@@ -1,0 +1,26 @@
+# 1. Java & Maven (kompilierte Build-Artefakte)
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+*.log
+
+# 2. Terraform (Cache, State, Plan-Dateien & lokale Variablen)
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+tfplan
+*.tfplan
+
+# 3. Lokale Geheimnisse & Umgebungsvariablen
+.env
+.env.*
+!.env.example
+
+# 4. IDE- & Betriebssystem-Dateien
+.idea/
+*.iml
+.vscode/
+.DS_Store
