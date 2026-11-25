@@ -7,8 +7,8 @@ URL-Shortener-REST-API auf AWS, bereitgestellt mit Terraform und automatisierter
 | Mitglied | Name | Phase 1 (Skeleton) | Phase 2 (Features) | Phase 3 (Delivery & Ops) | Phase 4 (Hardening & Doku) |
 | --- | --- | --- | --- | --- | --- |
 | A | Romuale | Anwendung | Infrastruktur | Pipeline | Alle |
-| B | Wright | Pipeline | Anwendung | Infrastruktur | Alle |
-| C | Danielle | Infrastruktur | Pipeline | Anwendung | Alle |
+| B | Danielle| Pipeline | Anwendung | Infrastruktur | Alle |
+| C | Wright | Infrastruktur | Pipeline | Anwendung | Alle |
 
 ## Dokumentationsstruktur
 
